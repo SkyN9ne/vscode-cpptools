@@ -15,7 +15,7 @@
     "@octokit/rest": "^19.0.3",
     "@slack/web-api": "^6.7.2",
     "applicationinsights": "^2.5.1",
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
@@ -32,7 +32,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "husky": "^8.0.1",
     "mocha": "^10.0.0",
-    "mongodb": "^4.8.1",
+    "mongodb": "^4.17.0",
     "nock": "^13.2.9",
     "prettier": "2.7.1",
     "ts-node": "^10.9.1",
